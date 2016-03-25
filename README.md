@@ -1,4 +1,4 @@
-# Usage
+### Usage
 
 ```
 $ cd $(git --show-toplevel)
